@@ -1,1 +1,1 @@
-I love Software Engineering
+Software Engineering is cool
